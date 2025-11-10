@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #8B008B;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   justify-content: center;
@@ -16,7 +16,7 @@ body {
 
 /* Main content box */
 .container {
-  background-color: #ffebcd; /* light peach background */
+  background-color: #9932CC; /* light peach background */
   border: 5px double #008000; /* green rectangular border */
   border-radius: 15px;
   padding: 30px 20px;
